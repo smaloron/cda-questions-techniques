@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="cqt"
+                 name="CDA Questions techniques"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="par-techno.md">
+        <toc-element topic="php.md"/>
+        <toc-element topic="Symfony.md"/>
+        <toc-element topic="javascript.md"/>
+        <toc-element topic="Angular.md"/>
+        <toc-element topic="React.md"/>
+        <toc-element topic="Java.md"/>
+        <toc-element topic="Spring-Boot.md"/>
+    </toc-element>
+</instance-profile>
